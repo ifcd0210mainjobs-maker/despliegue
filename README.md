@@ -1,4 +1,1 @@
-# despliegue
-Despliegue de aplicación
-
-Esta es una segunda modificación
+Esto es el readme del proyecto que vamos a desplegar. 
